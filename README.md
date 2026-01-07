@@ -1,0 +1,9 @@
+IMPORTANT FOR MACOS USERS:
+Because the MacOS version is not yet signed, you must manually unlock the app, or it will say that the file is damaged.
+To do this:
+  1. After opening the .dmg, drag the Elemental Reader.app into the applications folder in the installation window.
+  2. Open your terminal and run: "xattr -r -d com.apple.quarantine ~/Applications/Elemental Reader.app"
+
+This will allow you to run the app.
+
+We intend to get the app signed soon, but Apple charges a good chunk of cash to do so...
